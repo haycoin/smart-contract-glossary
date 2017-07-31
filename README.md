@@ -5,5 +5,5 @@ Mot|Définition
 ---|---
 Truffle|Suite d'application pour Compiler / Déployer / etc
 Test RPC|Un portefeuille de test pour une blockchain locale
+web3|Interface web
 
-Copyleft
